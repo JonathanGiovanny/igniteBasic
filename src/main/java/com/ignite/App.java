@@ -7,6 +7,11 @@ import java.time.LocalTime;
 
 import com.ignite.persistence.IgniteConnection;
 
+/**
+ * In-memory DB (not cache, just connection)
+ * @author jcamargos
+ *
+ */
 public class App {
 
 	public static void main(String[] args) {
